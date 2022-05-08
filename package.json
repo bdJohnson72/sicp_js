@@ -1,0 +1,17 @@
+{
+  "name": "sicp_node",
+  "version": "1.0.0",
+  "description": "SICP JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Brooks Johnson",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
+  }
+}
